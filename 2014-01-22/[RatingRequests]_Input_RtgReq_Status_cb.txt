@@ -1,0 +1,1 @@
+ut_ComboMenuC (Self;->[RatingRequests]ContractNo_L)If  ((Form event=On Data Change )Ê|Ê(Form event=On Clicked ))RtgReq_Utility ("LOADASSIGNMENTS")RtgReq_ContrAssign_cb{0}:=[RatingRequests]AssignmentNo_LEnd if 

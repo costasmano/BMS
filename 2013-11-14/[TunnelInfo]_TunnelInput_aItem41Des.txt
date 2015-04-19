@@ -1,0 +1,1 @@
+ÊÊ`[Bridge MHD NBIS];"SI & A Input"ÊÊ`Popupmenu for Item 41POPUPMENUC (->aItem41Des;->aItem41;->[Bridge MHD NBIS]Item41)If (form event=On Clicked)PushChange (1;->[Bridge MHD NBIS]Item41)End if 

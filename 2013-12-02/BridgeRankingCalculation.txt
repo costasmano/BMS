@@ -1,0 +1,1 @@
+If ([Inspections]Item 62="N")If ([Inspections]Item 58="N")[Inspections]Item 59+

@@ -1,0 +1,1 @@
+PRINT SETTINGSPrint form("WriteTest")

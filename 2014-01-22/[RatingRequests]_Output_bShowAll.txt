@@ -1,0 +1,1 @@
+ÊÊ` ----------------------------------------------------If (False)ÊÊ`Created : End if ÊÊ`LB_Tasks ("SHOWALL";"RtgReq")ÊÊ`RtgReq_UtilitySET AUTOMATIC RELATIONS(True;True)ORDER BY([RatingRequests];[Bridge MHD NBIS]Item2;>;[Bridge MHD NBIS]BDEPT;>)SET AUTOMATIC RELATIONS(False;False)
