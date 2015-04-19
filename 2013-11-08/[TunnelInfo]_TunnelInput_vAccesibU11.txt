@@ -1,1 +1,0 @@
-G_Accesibil_Obj (Self;->[TunnelInfo]EscapeAir_s;2;2)  `part 2, ptr_changes{2}
