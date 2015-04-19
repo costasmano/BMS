@@ -1,1 +1,0 @@
-SET AUTOMATIC RELATIONS(True;True)QR REPORT(Current form table->;Char(1))

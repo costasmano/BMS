@@ -1,1 +1,0 @@
-  `Add button to RatingsINPUT FORM([RatingRequests];"Input")ADD RECORD([RatingRequests])READ ONLY([RatingRequests])READ ONLY([AddtlRatingRequests])QUERY([RatingRequests];[RatingRequests]BIN=[Bridge MHD NBIS]BIN)ORDER BY([RatingRequests];[RatingRequests]DateOfRequest_d;<)

@@ -1,1 +1,0 @@
-Case of : (Form event=On Load )RtgReq_Prio_cb{0}:=[RatingRequests]Priority_s: (Form event=On Data Change )  `ALERT("DC"+RtgReq_Prio_cb)[RatingRequests]Priority_s:=RtgReq_Prio_cb{0}: (Form event=On Clicked )  `ALERT("Click")[RatingRequests]Priority_s:=RtgReq_Prio_cb{0}End case 

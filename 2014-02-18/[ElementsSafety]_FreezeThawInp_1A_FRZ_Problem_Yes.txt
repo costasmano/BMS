@@ -1,1 +1,0 @@
-Case of : (Form event=On Clicked )[ElementsSafety]Rating:="2"PushChange (2;->[ElementsSafety]Rating)FRZ_Problem_No:=0FRZ_FURTHERACTION:=0SET ENTERABLE(*;"DE FRZ FieldAction@";True)SET COLOR(*;"DE FRZ FieldAction@";×Color_editable)End case 
